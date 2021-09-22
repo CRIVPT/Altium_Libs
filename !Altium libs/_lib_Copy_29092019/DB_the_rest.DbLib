@@ -1,0 +1,533 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\_lib\DB_the_rest.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=1
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=DB_the_rest.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=antenna$
+[Table1]
+SchemaName=
+TableName=EPC$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|F60=100|F70=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table2]
+SchemaName=
+TableName=Fuse_Holders$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|MPN0=100|Library Ref0=100|Footprint Ref0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|mating part0=100|Library Path0=100|Footprint Path0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100|F240=100|F250=100|F260=100
+[Table3]
+SchemaName=
+TableName=LED$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table4]
+SchemaName=
+TableName=TVS$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|MPN0=100|Voltage/Power0=100|analogue0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|FootprintPath0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table5]
+SchemaName=
+TableName=antenna$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Footprint Path0=100|Footprint Path10=100|MPN0=100|antenna$.Library Path0=100|Voltage/Power0=100|F90=100|F100=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|antenna$.Library Path_10=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table6]
+SchemaName=
+TableName=battery$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|mating part0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table7]
+SchemaName=
+TableName=buttons$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|ManufacturerName0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100|F240=100|F250=100
+[Table8]
+SchemaName=
+TableName=conn_USB$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|F210=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table9]
+SchemaName=
+TableName=conn_eth$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|F210=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table10]
+SchemaName=
+TableName=conn_harting$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|mating part0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table11]
+SchemaName=
+TableName=conn_header$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|mating part0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table12]
+SchemaName=
+TableName=conn_screw_klemm$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Voltage/Power0=100|Tolerance0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|mating part0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table13]
+SchemaName=
+TableName=connectors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table14]
+SchemaName=
+TableName=crystal$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Footprint Path0=100|MPN0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|price elitan0=100|price terra0=100|price chipdip0=100|Library Path 0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table15]
+SchemaName=
+TableName=diods$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Voltage/Power0=100|analogue0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table16]
+SchemaName=
+TableName=metiz$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Library Ref0=100|Footprint Ref0=100|ManufacturerName0=100|LibraryPath0=100|FootprintPath0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100|F240=100|F250=100
+[Table17]
+SchemaName=
+TableName=n-channel$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Voltage/Power0=100|F70=100|F80=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table18]
+SchemaName=
+TableName=npn$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Voltage/Power0=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table19]
+SchemaName=
+TableName=optocouple$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Isolation VDC0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|Value0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table20]
+SchemaName=
+TableName=p-channel$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Voltage/Power0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table21]
+SchemaName=
+TableName=relay$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|analogue0=100|Value0=100|Tolerance0=100|Voltage/Power0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100
+[Table22]
+SchemaName=
+TableName=switch$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Type0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100
+[Table23]
+SchemaName=
+TableName=transformer$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Voltage/Power0=100|Value0=100|analogue0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|Manufacturer0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table24]
+SchemaName=
+TableName=transistors$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|Footprint Path0=100|MPN0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|Voltage/Power0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|Rem0=100|Misc0=100|Author0=100|ComponentLink3URL0=100|ComponentLink3Description0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[Table25]
+SchemaName=
+TableName=zener$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Library Path0=100|MPN0=100|analogue0=100|Voltage/Power0=100|Value0=100|ComponentLink1URL0=100|ComponentLink1Description0=100|ComponentLink2URL0=100|ComponentLink2Description0=100|Manufacturer0=100|TKE0=100|Tolerance0=100|TU/GOST0=100|price elitan 1000pc0=100|price terra 1000pc0=100|price chipdip 1000pc0=100|price dart 1000pc0=100|FootprintPath0=100|ComponentLink4URL0=100|ComponentLink4Description0=100
+[FieldMap1]
+Options=FieldName=EPC$.Name|TableNameOnly=EPC$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=EPC$.Description|TableNameOnly=EPC$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=EPC$.Library Ref|TableNameOnly=EPC$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=EPC$.Footprint Ref|TableNameOnly=EPC$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=EPC$.Library Path|TableNameOnly=EPC$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=EPC$.Footprint Path|TableNameOnly=EPC$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Fuse_Holders$.Name|TableNameOnly=Fuse_Holders$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Fuse_Holders$.Description|TableNameOnly=Fuse_Holders$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Fuse_Holders$.Library Ref|TableNameOnly=Fuse_Holders$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Fuse_Holders$.Footprint Ref|TableNameOnly=Fuse_Holders$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Fuse_Holders$.Library Path|TableNameOnly=Fuse_Holders$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Fuse_Holders$.Footprint Path|TableNameOnly=Fuse_Holders$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=LED$.Name|TableNameOnly=LED$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=LED$.Description|TableNameOnly=LED$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=LED$.Library Ref|TableNameOnly=LED$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=LED$.Footprint Ref|TableNameOnly=LED$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=LED$.Library Path|TableNameOnly=LED$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=LED$.Footprint Path|TableNameOnly=LED$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=TVS$.Name|TableNameOnly=TVS$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=TVS$.Description|TableNameOnly=TVS$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=TVS$.Library Ref|TableNameOnly=TVS$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=TVS$.Footprint Ref|TableNameOnly=TVS$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=TVS$.Library Path|TableNameOnly=TVS$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=antenna$.Name|TableNameOnly=antenna$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=antenna$.Description|TableNameOnly=antenna$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=antenna$.Library Ref|TableNameOnly=antenna$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=antenna$.Footprint Ref|TableNameOnly=antenna$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=antenna$.Footprint Path|TableNameOnly=antenna$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=antenna$.Footprint Path1|TableNameOnly=antenna$|FieldNameOnly=Footprint Path1|FieldType=1|ParameterName=[Footprint Path1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=battery$.Name|TableNameOnly=battery$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=battery$.Description|TableNameOnly=battery$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=battery$.Library Ref|TableNameOnly=battery$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=battery$.Footprint Ref|TableNameOnly=battery$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=battery$.Library Path|TableNameOnly=battery$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=battery$.Footprint Path|TableNameOnly=battery$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=buttons$.Name|TableNameOnly=buttons$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=buttons$.Library Ref|TableNameOnly=buttons$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=buttons$.Footprint Ref|TableNameOnly=buttons$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=buttons$.Library Path|TableNameOnly=buttons$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=buttons$.Footprint Path|TableNameOnly=buttons$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=conn_USB$.Name|TableNameOnly=conn_USB$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=conn_USB$.Description|TableNameOnly=conn_USB$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=conn_USB$.Library Ref|TableNameOnly=conn_USB$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=conn_USB$.Footprint Ref|TableNameOnly=conn_USB$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=conn_USB$.Library Path|TableNameOnly=conn_USB$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=conn_USB$.Footprint Path|TableNameOnly=conn_USB$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=conn_eth$.Name|TableNameOnly=conn_eth$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=conn_eth$.Description|TableNameOnly=conn_eth$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=conn_eth$.Library Ref|TableNameOnly=conn_eth$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=conn_eth$.Footprint Ref|TableNameOnly=conn_eth$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=conn_eth$.Library Path|TableNameOnly=conn_eth$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=conn_eth$.Footprint Path|TableNameOnly=conn_eth$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=conn_harting$.Name|TableNameOnly=conn_harting$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=conn_harting$.Description|TableNameOnly=conn_harting$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=conn_harting$.Library Ref|TableNameOnly=conn_harting$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=conn_harting$.Footprint Ref|TableNameOnly=conn_harting$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=conn_harting$.Library Path|TableNameOnly=conn_harting$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=conn_harting$.Footprint Path|TableNameOnly=conn_harting$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=conn_header$.Name|TableNameOnly=conn_header$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=conn_header$.Description|TableNameOnly=conn_header$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=conn_header$.Library Ref|TableNameOnly=conn_header$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=conn_header$.Footprint Ref|TableNameOnly=conn_header$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=conn_header$.Library Path|TableNameOnly=conn_header$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=conn_header$.Footprint Path|TableNameOnly=conn_header$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=conn_screw_klemm$.Name|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=conn_screw_klemm$.Description|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=conn_screw_klemm$.Library Ref|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=conn_screw_klemm$.Footprint Ref|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=conn_screw_klemm$.Library Path|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=conn_screw_klemm$.Footprint Path|TableNameOnly=conn_screw_klemm$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=connectors$.Name|TableNameOnly=connectors$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=connectors$.Description|TableNameOnly=connectors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=connectors$.Library Ref|TableNameOnly=connectors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=connectors$.Footprint Ref|TableNameOnly=connectors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=connectors$.Library Path|TableNameOnly=connectors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=connectors$.Footprint Path|TableNameOnly=connectors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=crystal$.Name|TableNameOnly=crystal$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=crystal$.Description|TableNameOnly=crystal$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=crystal$.Library Ref|TableNameOnly=crystal$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=crystal$.Footprint Ref|TableNameOnly=crystal$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=crystal$.Footprint Path|TableNameOnly=crystal$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=diods$.Name|TableNameOnly=diods$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=diods$.Description|TableNameOnly=diods$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=diods$.Library Ref|TableNameOnly=diods$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=diods$.Footprint Ref|TableNameOnly=diods$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=diods$.Library Path|TableNameOnly=diods$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=diods$.Footprint Path|TableNameOnly=diods$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=metiz$.Name|TableNameOnly=metiz$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=metiz$.Library Ref|TableNameOnly=metiz$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=metiz$.Footprint Ref|TableNameOnly=metiz$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=n-channel$.Name|TableNameOnly=n-channel$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=n-channel$.Description|TableNameOnly=n-channel$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=n-channel$.Library Ref|TableNameOnly=n-channel$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=n-channel$.Footprint Ref|TableNameOnly=n-channel$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=n-channel$.Library Path|TableNameOnly=n-channel$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=n-channel$.Footprint Path|TableNameOnly=n-channel$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=npn$.Name|TableNameOnly=npn$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=npn$.Description|TableNameOnly=npn$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=npn$.Library Ref|TableNameOnly=npn$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=npn$.Footprint Ref|TableNameOnly=npn$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=npn$.Library Path|TableNameOnly=npn$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=npn$.Footprint Path|TableNameOnly=npn$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=optocouple$.Name|TableNameOnly=optocouple$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=optocouple$.Description|TableNameOnly=optocouple$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=optocouple$.Library Ref|TableNameOnly=optocouple$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=optocouple$.Footprint Ref|TableNameOnly=optocouple$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=optocouple$.Library Path|TableNameOnly=optocouple$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=optocouple$.Footprint Path|TableNameOnly=optocouple$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=p-channel$.Name|TableNameOnly=p-channel$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=p-channel$.Description|TableNameOnly=p-channel$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=p-channel$.Library Ref|TableNameOnly=p-channel$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=p-channel$.Footprint Ref|TableNameOnly=p-channel$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=p-channel$.Library Path|TableNameOnly=p-channel$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=p-channel$.Footprint Path|TableNameOnly=p-channel$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=relay$.Name|TableNameOnly=relay$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=relay$.Description|TableNameOnly=relay$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=relay$.Library Ref|TableNameOnly=relay$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=relay$.Footprint Ref|TableNameOnly=relay$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=relay$.Library Path|TableNameOnly=relay$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=relay$.Footprint Path|TableNameOnly=relay$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=switch$.Name|TableNameOnly=switch$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=switch$.Description|TableNameOnly=switch$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=switch$.Library Ref|TableNameOnly=switch$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=switch$.Footprint Ref|TableNameOnly=switch$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=switch$.Library Path|TableNameOnly=switch$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=switch$.Footprint Path|TableNameOnly=switch$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=transformer$.Name|TableNameOnly=transformer$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=transformer$.Description|TableNameOnly=transformer$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=transformer$.Library Ref|TableNameOnly=transformer$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=transformer$.Footprint Ref|TableNameOnly=transformer$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=transformer$.Library Path|TableNameOnly=transformer$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=transformer$.Footprint Path|TableNameOnly=transformer$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=transistors$.Name|TableNameOnly=transistors$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=transistors$.Description|TableNameOnly=transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=transistors$.Library Ref|TableNameOnly=transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=transistors$.Footprint Ref|TableNameOnly=transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=transistors$.Library Path|TableNameOnly=transistors$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=transistors$.Footprint Path|TableNameOnly=transistors$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=zener$.Name|TableNameOnly=zener$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=zener$.Description|TableNameOnly=zener$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=zener$.Library Ref|TableNameOnly=zener$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=zener$.Footprint Ref|TableNameOnly=zener$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=zener$.Library Path|TableNameOnly=zener$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
